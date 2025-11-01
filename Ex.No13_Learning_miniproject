@@ -1,12 +1,18 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:31-10-25                                                                            
 ### REGISTER NUMBER : 212222220021
 ### AIM: 
 To write a program to train the classifier for crop predicion.
 ###  Algorithm:
+1.Data Loading and Preprocessing
+2.Feature Selection or Dimensionality Reduction
+3.Clustering 
+4.Visualization and Interpretation 
+5.Anomaly or Outlier Detection 
+6.Insights and Reporting
 
 ### Program:
-```
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -98,9 +104,11 @@ plt.tight_layout(rect=[0, 0, 0.9, 1]) # Adjust layout to make room for legend
 # Display the plot
 plt.show()
 
-```
+
 
 ### Output:
+
+![download](https://github.com/user-attachments/assets/9ba130f7-282e-49fe-b743-6236589e6886)
 
 
 ### Result:
